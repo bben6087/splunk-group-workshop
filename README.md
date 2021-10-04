@@ -4,6 +4,6 @@
 
 ## Seth Bennett
 
-## Logan Krohn - SA Plaso app for Splunk
+## Logan Krohn - Plaso and Log2Timeline for Splunk
 
 ## Zach Watson
