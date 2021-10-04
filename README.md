@@ -12,6 +12,6 @@
 
 ## Logan Krohn - Plaso and Log2Timeline for Splunk
 
-## Zach Watson
+## Zach Watson - Web Input for Splunk
 
 ## Credits
