@@ -4,6 +4,6 @@
 
 ## Seth Bennett
 
-## Logan Krohn
+## Logan Krohn - SA Plaso app for Splunk
 
 ## Zach Watson
