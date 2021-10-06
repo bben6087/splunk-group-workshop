@@ -1,6 +1,7 @@
 # splunk-group-workshop
 
 ## Blake Bennett - Download and Installation
+![Profile Image](images/54418954.jpg)
 ### How to Install
 1. Head to https://www.splunk.com/ and click on the Free Splunk button in the top right hand corner ![Splunk Home](images/product_image.PNG) ![Free Splunk](images/free_splunk.PNG)
 2. Fill out information to create an account or login. Once logged in click the download for the application version of Splunk Enterprise.
