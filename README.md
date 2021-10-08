@@ -1,9 +1,13 @@
 # splunk-group-workshop
 ##  The Team
 ![Blake Bennett](images/54418954.jpg)
+<img src="images/54418954.jpg" alt="" style="width: 150px; height: 150px;">
 ![Seth Bennett](images/me.png)
+<img src="images/me.png" alt="" style="width: 150px; height: 150px;">
 ![Logan Krohn]()
+<img src="" alt="" style="width: 150px; height: 150px;">
 ![Zach Watson]()
+<img src="" alt="" style="width: 150px; height: 150px;">
 ## Blake Bennett - Download and Installation
 ![Profile Image](images/54418954.jpg)
 ### How to Install
