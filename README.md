@@ -4,7 +4,7 @@
 |------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|-----------------------------------------------------------------------|---------------------------------------------------------------------|
 | Blake Bennett | Seth Bennett | Logan Krohn | Zach Watson |
 
-
+---
 ## Blake Bennett - Download and Installation
 ![Profile Image](images/54418954.jpg)
 ### How to Install
@@ -18,6 +18,7 @@
 2. Once there you can filter through different apps and find an app that will enhance your usage of splunk.
 3. When you have found an app you want to install you simply click the green install button and it will prompt you to enter your credentials.
 4. Once you have entered in your credentials successfully the app will be added to Splunk Enterprise. ![App Install](images/app_install.PNG)
+---
 ## Seth Bennett
 
 ## Logan Krohn - Plaso and Log2Timeline for Splunk
