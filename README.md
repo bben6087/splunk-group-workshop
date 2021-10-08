@@ -6,8 +6,7 @@
 
 ---
 
-## Blake Bennett - Download and Installation
-![Profile Image](images/54418954.jpg)
+## Blake Bennett - Download, Install, Add Apps, and Monitoring Console
 ### How to Install
 1. Head to https://www.splunk.com/ and click on the Free Splunk button in the top right hand corner ![Splunk Home](images/product_image.PNG) ![Free Splunk](images/free_splunk.PNG)
 2. Fill out information to create an account or login if you have a pre-existng account. Once logged in click the download for the application version of Splunk Enterprise.
@@ -15,10 +14,17 @@
 4. It will lauch a server that your computer hosts and it will ask you to login using the credentials you created in the installation. ![Splunk Enterprise Login](images/login.PNG)
 5. Once logged in you will be directed to the homepage of the application and you have succesfully completed the installation of Splunk. ![Homepage](images/homepage.PNG)
 ### How to Add Apps to Splunk
-1. Once at the main page click on "Find More Apps" in the side navigation bar and it will take you to a seperate page.
+1. Once at the main page click on "Find More Apps" in the side navigation bar and it will take you to a seperate page. This allows for the use of additional inside of Splunk making it a more versatile application which is neat!
 2. Once there you can filter through different apps and find an app that will enhance your usage of splunk.
 3. When you have found an app you want to install you simply click the green install button and it will prompt you to enter your credentials.
 4. Once you have entered in your credentials successfully the app will be added to Splunk Enterprise. ![App Install](images/app_install.PNG)
+### Monitoring Console
+1. From the Splunk Dashboard Overview go to settings and click on "Monitoring Console"
+2. This monitoring lets you see when the PC was used at what time and what process are running
+3. Click on the graphs or percentages for additional information regarding your machine and processes
+4. Here on this page you can dive into an even deeper look into what is running on your machine from RAM, to CPU, to even Input/Output processes which is cool.
+### What does all of this have to do with Digital Forensics
+- Splunk is made for machine monitoring so you can monitor changes in your employees keystrokes, mouse usage, browsing, and file changes, etc. This allows companies to make sure employees are working or are not making malicous changes to company files without the comapny knowing. It tracks every change on the machine to every minute process with the monitoring console. This a great tool to see what people were doing and when! The Monitoring Console even gives timestamps when theings were processed. All in all the ability to add addtional apps for Digital Forensics and being able to monitor PC activity is a a great tool for digital investigators.
 ## Seth Bennett - Local System Monitoring
 ### Setting up File Directory Monitoring
 1. Starting from the Splunk Dashboard First click "Settings" in the top right then click "Add Data"
@@ -60,3 +66,4 @@
 
 ## Credits
 - https://www.splunk.com/
+- For additional training for Splunk and various tools: https://www.splunk.com/en_us/training.html?sort=Newest
