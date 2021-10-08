@@ -58,6 +58,15 @@
 7. Explore the index with the Search tool and the bar chart showing you the activity of the Image file in chronological order. ![Index Image](images/Index.png)
  
 ## Zach Watson - Web Input for Splunk
+### Using Website Input for Splunk
+
+1. In the Splunk Dashboard, click on "Website Input" on the left of the screen. ![Dashboard](images/1.png)
+2. Click the "New Input" tab, in which you will start the process to create the web scraper. Enter the website you want to use in the URL section. Then, enter the interval that the web input will update. Click the "Next" button. ![New Input](images/2.png)
+3. Skip "Enter Credentials" by clicking "Next". On the "CSS Selector" tab, a preview of your website will show up on the bottom half of the page. ![CSS1](images/3.png)
+4. In the website preview, click the element that you want to record. For this example, I clicked the titles of the articles. ![CSS2](images/4.png)
+5. Skip "Customize Output" and "Define Input Settings" by clicking "Next" twice. Enter the title of your input. The bottom text box fills automatically according to the title you put in. Click "Next" to finalize your web input. ![Save](images/5.png)
+6. Click the "Overview" tab. This is where you can see all of your current and previous web inputs. ![Overview](images/6.png)
+7. Click on your web input. A Search should pop up with the data that the web input gathered. ![Search](images/7.png)
 
 ## Credits
 - https://www.splunk.com/
