@@ -75,3 +75,5 @@
 - https://www.splunk.com/en_us/blog/tips-and-tricks/using-splunk-for-computer-forensics-2.html
 - Plaso Log2timeline in WSL2: https://www.youtube.com/watch?v=g9V6OUCe12k&t=892s
 - Looking at .cvs files in Splunk: https://www.youtube.com/watch?v=fKoAB6n_ivs&t=14s
+- Splunk table: https://docs.splunk.com/Documentation/DashApp/0.9.0/DashApp/chartsTable
+- Website input for Splunk: https://splunkbase.splunk.com/app/1818/
