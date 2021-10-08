@@ -19,11 +19,46 @@
 3. When you have found an app you want to install you simply click the green install button and it will prompt you to enter your credentials.
 4. Once you have entered in your credentials successfully the app will be added to Splunk Enterprise. ![App Install](images/app_install.PNG)
 ---
-## Seth Bennett
+
+## Seth Bennett - Local System Monitoring
+### Setting up File Directory Monitoring
+1. Starting from the Splunk Dashboard First click "Settings" in the top right then click "Add Data"
+    - ![Pic1](images/Seth_Bennett/DataInput1.png)
+2. From this point proceed to click the "Monitor" Button in the bottom section of the page
+    - ![Pic1](images/Seth_Bennett/DataInput2.png)
+3. From this point you must select what source of data you would like to use I will will be using File & Directories in the example.
+    - From Here Enter the exact File or Directory you would  like to monitor the files in and click next
+    *I would recomend Being as specific as possible, the amount of information can be quite verbose*
+    - ![Pic1](images/Seth_Bennett/DataInput3.png)
+4.  Next, you will be have several options, one of which is index, you may use one of the default indexes but I suggest Creating a new index for the specific job as seen in the pictures below and then click next
+    - ![Pic1](images/Seth_Bennett/DataInput4.png)
+    - ![Pic1](images/Seth_Bennett/DataInput5.png)
+    - ![Pic1](images/Seth_Bennett/DataInput6.png)
+5. From here you should be met with this page confirming the information you have given and you may click submit
+    - ![Pic1](images/Seth_Bennett/DataInput7.png)
+6. You have now successfully linked the monitor to your specified file or directory
+### Searching your index
+1. Starting from the Splunk Dashboard First click "Settings" in the top right then click "Monitor"
+    - ![Pic2](images/Seth_Bennett/SearchIndex1.png)
+2. Once on the Monitor page click the "Run a Search" button in the top navbar
+    - ![Pic2](images/Seth_Bennett/SearchIndex2.png)
+3. Now that you are ready to search your index, you may search by source, index, or both. Below are the syntaxs for the two options
+    - source="YourFullDirectoryPath\\*"
+    - index="YourIndexName"
+    - ![Pic2](images/Seth_Bennett/SearchIndex3.png)
+---
 
 ## Logan Krohn - Plaso and Log2Timeline for Splunk
 
+
+
+---
+
 ## Zach Watson - Web Input for Splunk
+
+
+
+---
 
 ## Credits
 - https://www.splunk.com/
