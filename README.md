@@ -71,4 +71,5 @@
 
 ## Credits
 - https://www.splunk.com/
+- [File and Directory monitoring](https://docs.splunk.com/Documentation/Splunk/8.2.2/Data/MonitorfilesanddirectorieswithSplunkWeb)
 - For additional training for Splunk and various tools: https://www.splunk.com/en_us/training.html?sort=Newest
