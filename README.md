@@ -25,7 +25,7 @@
 3. Click on the graphs or percentages for additional information regarding your machine and processes
 ![Graphs](images/graph.PNG)
 4. Here on this page you can dive into an even deeper look into what is running on your machine from RAM, to CPU, to even Input/Output processes which is cool.
-![Monitoring](images/monitoring overview.PNG)
+![Monitoring](images/monitoringoverview.PNG)
 ![Additional Info](images/additionalinformation.PNG)
 ![IO](images/IO.PNG)
 ### What does all of this have to do with Digital Forensics
