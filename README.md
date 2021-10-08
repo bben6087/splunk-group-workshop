@@ -1,6 +1,6 @@
 # splunk-group-workshop
 ##  The Team
-![Blake Bennett]()
+![Blake Bennett](images/54418954.jpg)
 ![Seth Bennett]()
 ![Logan Krohn]()
 ![Zach Watson]()
