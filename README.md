@@ -20,9 +20,14 @@
 4. Once you have entered in your credentials successfully the app will be added to Splunk Enterprise. ![App Install](images/app_install.PNG)
 ### Monitoring Console
 1. From the Splunk Dashboard Overview go to settings and click on "Monitoring Console"
+![SettingsToMonitor](images/settings.PNG)
 2. This monitoring lets you see when the PC was used at what time and what process are running
 3. Click on the graphs or percentages for additional information regarding your machine and processes
+![Graphs](images/graph.PNG)
 4. Here on this page you can dive into an even deeper look into what is running on your machine from RAM, to CPU, to even Input/Output processes which is cool.
+![Monitoring](images/monitoring overview.PNG)
+![Additional Info](images/additionalinformation.PNG)
+![IO](images/IO.PNG)
 ### What does all of this have to do with Digital Forensics
 - Splunk is made for machine monitoring so you can monitor changes in your employees keystrokes, mouse usage, browsing, and file changes, etc. This allows companies to make sure employees are working or are not making malicous changes to company files without the comapny knowing. It tracks every change on the machine to every minute process with the monitoring console. This a great tool to see what people were doing and when! The Monitoring Console even gives timestamps when theings were processed. All in all the ability to add addtional apps for Digital Forensics and being able to monitor PC activity is a a great tool for digital investigators.
 ## Seth Bennett - Local System Monitoring
