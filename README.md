@@ -8,7 +8,7 @@
 
 ---
 
-## Blake Bennett - Download, Install, Add Apps, and Monitoring Console
+## Blake Bennett - Download, Install, and Add Apps
 ### How to Install
 1. Head to https://www.splunk.com/ and click on the Free Splunk button in the top right hand corner ![Splunk Home](images/product_image.PNG) ![Free Splunk](images/free_splunk.PNG)
 2. Fill out information to create an account or login if you have a pre-existng account. Once logged in click the download for the application version of Splunk Enterprise.
@@ -20,16 +20,6 @@
 2. Once there you can filter through different apps and find an app that will enhance your usage of splunk.
 3. When you have found an app you want to install you simply click the green install button and it will prompt you to enter your credentials.
 4. Once you have entered in your credentials successfully the app will be added to Splunk Enterprise. ![App Install](images/app_install.PNG)
-### Monitoring Console
-1. From the Splunk Dashboard Overview go to settings and click on "Monitoring Console"
-![SettingsToMonitor](images/settings.PNG)
-2. This monitoring lets you see when the PC was used at what time and what process are running
-3. Click on the graphs or percentages for additional information regarding your machine and processes
-![Graphs](images/graph.PNG)
-4. Here on this page you can dive into an even deeper look into what is running on your machine from RAM, to CPU, to even Input/Output processes which is cool.
-![Monitoring](images/monitoringoverview.PNG)
-![Additional Info](images/additionalinformation.PNG)
-![IO](images/IO.PNG)
 ### What does all of this have to do with Digital Forensics
 - Splunk is made for machine monitoring so you can monitor changes in your employees keystrokes, mouse usage, browsing, and file changes, etc. This allows companies to make sure employees are working or are not making malicous changes to company files without the comapny knowing. It tracks every change on the machine to every minute process with the monitoring console. This a great tool to see what people were doing and when! The Monitoring Console even gives timestamps when theings were processed. All in all the ability to add addtional apps for Digital Forensics and being able to monitor PC activity is a a great tool for digital investigators.
 ## Seth Bennett - Local System Monitoring
