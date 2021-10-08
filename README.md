@@ -51,8 +51,6 @@
 ---
 
 ## Logan Krohn - Plaso and Log2Timeline for Splunk
-<img src="images/Logan.JPG" alt="logan" style="width: 240px; height: 200px;">
-
 1. Go to https://plaso.readthedocs.io/en/latest/sources/user/Ubuntu-Packaged-Release.html and use the following commands in WSL to install the repository and Plaso for Ubuntu 20.04. ![Plaso Image](images/Plaso.png)
 2. Find a disk image you want to use and use the command 'log2timeline.py plaso.dump name-of-disk-image'. If asked to choose a partition, select the partition with the most content. If asked to select a VSS(volume shadow snapshot), select -all.![Dump Image](images/Dump.png)
 4. After completion use the command 'psort.py -o l2tcsv -w timeline.csv plaso.dump' to sort the content and write the database into a .csv file which we will use later.![Psort Image](images/Psort.png)
@@ -65,3 +63,6 @@
 - https://www.splunk.com/
 - [File and Directory monitoring](https://docs.splunk.com/Documentation/Splunk/8.2.2/Data/MonitorfilesanddirectorieswithSplunkWeb)
 - For additional training for Splunk and various tools: https://www.splunk.com/en_us/training.html?sort=Newest
+- https://www.splunk.com/en_us/blog/tips-and-tricks/using-splunk-for-computer-forensics-2.html
+- Plaso Log2timeline in WSL2: https://www.youtube.com/watch?v=g9V6OUCe12k&t=892s
+- Looking at .cvs files in Splunk: https://www.youtube.com/watch?v=fKoAB6n_ivs&t=14s
