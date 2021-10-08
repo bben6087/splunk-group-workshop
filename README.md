@@ -30,7 +30,7 @@
 ![Monitoring](images/monitoringoverview.PNG)
 ![Additional Info](images/additionalinformation.PNG)
 ![IO](images/IO.PNG)
-### What does installing additional apps and monitoring console this have to do with Digital Forensics?
+### What does installing additional apps and the monitoring console this have to do with Digital Forensics?
 - Splunk is made for machine monitoring so you can monitor changes in your employees keystrokes, mouse usage, browsing, and file changes, etc. This allows companies to make sure employees are working or are not making malicous changes to company files without the comapny knowing. It tracks every change on the machine to every minute process. On top of that having a tool that allows the installation of additional apps that expand the capabilities of Splunk is a great feature. Which is what I covered. Having additional applications that expand Splunk allows for many configurations and versatility depending on your own personal or company needs. All in all the ability to add addtional apps for Digital Forensics and being able to monitor PC activity is a a great tool for Digital Investigators.
 ## Seth Bennett - Local System Monitoring
 ### Setting up File Directory Monitoring
