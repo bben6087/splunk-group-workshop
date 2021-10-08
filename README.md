@@ -16,6 +16,7 @@
 ## Seth Bennett
 
 ## Logan Krohn - Plaso and Log2Timeline for Splunk
+<img src="images/logan.jpg" alt="logan" style="width: 200px; height: 200px;">
 ![Logan Image](images/Logan.JPG)
 1. Go to https://plaso.readthedocs.io/en/latest/sources/user/Ubuntu-Packaged-Release.html and use the following commands in WSL to install the repository and Plaso for Ubuntu 20.04. ![Plaso Image](images/Plaso.png)
 2. Find a disk image you want to use and use the command 'log2timeline.py plaso.dump name-of-disk-image'. If asked to choose a partition, select the partition with the most content. If asked to select a VSS(volume shadow snapshot), select -all.![Dump Image](images/Dump.png)
