@@ -8,7 +8,7 @@
 
 ---
 
-## Blake Bennett - Download, Install, and Add Apps
+## Blake Bennett - Download, Install, Add Apps, and Monitoring Console
 ### How to Install
 1. Head to https://www.splunk.com/ and click on the Free Splunk button in the top right hand corner ![Splunk Home](images/product_image.PNG) ![Free Splunk](images/free_splunk.PNG)
 2. Fill out information to create an account or login if you have a pre-existng account. Once logged in click the download for the application version of Splunk Enterprise.
@@ -31,7 +31,7 @@
 ![Additional Info](images/additionalinformation.PNG)
 ![IO](images/IO.PNG)
 ### What does installing additional apps and monitoring console this have to do with Digital Forensics?
-- Splunk is made for machine monitoring so you can monitor changes in your employees keystrokes, mouse usage, browsing, and file changes, etc. This allows companies to make sure employees are working or are not making malicous changes to company files without the comapny knowing. It tracks every change on the machine to every minute process. On top of that having a tool that allows the installation of additional apps that expand the capabilities of Splunk is a great feature. Which is what I covered. Having additional applications that expand Splunk allows for many configuration and versatility depending on your own personal or company needs. All in all the ability to add addtional apps for Digital Forensics and being able to monitor PC activity is a a great tool for Digital Investigators.
+- Splunk is made for machine monitoring so you can monitor changes in your employees keystrokes, mouse usage, browsing, and file changes, etc. This allows companies to make sure employees are working or are not making malicous changes to company files without the comapny knowing. It tracks every change on the machine to every minute process. On top of that having a tool that allows the installation of additional apps that expand the capabilities of Splunk is a great feature. Which is what I covered. Having additional applications that expand Splunk allows for many configurations and versatility depending on your own personal or company needs. All in all the ability to add addtional apps for Digital Forensics and being able to monitor PC activity is a a great tool for Digital Investigators.
 ## Seth Bennett - Local System Monitoring
 ### Setting up File Directory Monitoring
 1. Starting from the Splunk Dashboard First click "Settings" in the top right then click "Add Data"
